@@ -58,7 +58,8 @@ Os principais artefatos presentes neste repositório incluem:
 
 - **Felipe Tolentino** → Desenvolvedor, Designer UI/UX, Gerente de Projeto, Documentador  
 - **Luis Guilherme** → Desenvolvedor, Designer UI/UX, Documentador  
-- **Lucas Daniel** → Desenvolvedor, Gerente de Projeto, DBA, Especialista em Segurança  
+- **Lucas Daniel** → Desenvolvedor, Gerente de Projeto, DBA, Especialista em Segurança
+- **Miguel Castro** → Documentador
 
 ---
 
